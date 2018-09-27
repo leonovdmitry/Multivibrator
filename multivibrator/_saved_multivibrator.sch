@@ -200,7 +200,7 @@ U 1 1 5BA8289E
 P 7750 2500
 F 0 "J1" H 7777 2476 50  0000 L CNN
 F 1 "Conn_01x02_Female" H 7777 2385 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 7750 2500 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7750 2500 50  0001 C CNN
 F 3 "~" H 7750 2500 50  0001 C CNN
 	1    7750 2500
 	1    0    0    -1  
